@@ -1,66 +1,72 @@
 <div align="center">
 
-# Jagwant Singh
+# 👋 Hey, I'm Jagwant Singh
 
-### Product Manager · Business-first · AI systems that actually ship
+**I spent 6 years finding where businesses break.**
+**Now I build AI products that fix it.**
 
-[LinkedIn](https://linkedin.com/in/jagwant-singh01) · [Email](mailto:jagwantsingh01@gmail.com)
+[💼 LinkedIn](https://linkedin.com/in/jagwant-singh01) · [✉️ Email](mailto:jagwantsingh01@gmail.com)
 
 </div>
 
 ---
 
-## Who I am
+## 🙋 Who Am I?
 
-6+ years helping businesses grow — revenue models, sales systems, GTM, operations. Now building AI-powered products and workflows as a PM.
+Business consultant turned Product Manager.
 
-My edge: I understand the business problem before I touch the tool. Most PM aspirants do case studies. I build things.
+I've worked inside 35 businesses — fixing revenue leaks, broken sales funnels, and operational chaos. I did it manually for years. Now I build AI systems that do it automatically.
 
-Currently: **NextLeap PM Fellowship** · Specialising in AI-integrated products
-
----
-
-## What I'm building
-
-**🔍 Groww FAQ Assistant**
-Answers factual questions about mutual funds — expense ratio, exit load, lock-in periods. Every answer has a source link. Refuses investment advice.
-*The tricky part wasn't answering questions — it was deciding when not to answer. Built a refusal layer for anything that sounds like advice.*
+My edge: I understand the problem before I touch the tool.
 
 ---
 
-**📈 Groww Weekly Pulse**
-Reads Groww's Play Store reviews every week and turns them into a one-page brief — top themes, real user quotes, 3 things to act on. Sends the output to Google Docs and Gmail automatically.
-*Kept a human approval step before anything gets sent. AI insights going straight to a leadership inbox without anyone checking is a bad idea.*
+## 🚀 What I Do
+
+🏢 &nbsp; Diagnose core business problems and build systems around them
+
+🤖 &nbsp; Ship AI-powered products and multi-agent workflows
+
+📦 &nbsp; Take products from 0 to shipped — PRDs, prototypes, deployment
+
+📊 &nbsp; Make decisions with data — SQL, funnels, experimentation
 
 ---
 
-**🍽️ Restaurant Recommendation Engine**
-A restaurant discovery app that recommends places based on what you actually want — not just what's nearby or popular. Filters by city, budget, cuisine and rating, then ranks results with an AI explanation.
-*Run the filters first to cut the list down, then let the AI rank the shortlist. Doing it the other way made the app slow and the results unreliable.*
+## ⚙️ Skills
+
+**🎯 Product** &nbsp; Discovery · PRD Writing · Roadmapping · A/B Testing · Figma
+
+**🤖 AI & Build** &nbsp; Multi-agent systems · LLM/RAG · Cursor · Lovable · Streamlit · n8n
+
+**📊 Data** &nbsp; SQL · Google Analytics · Meta Ads · Excel
+
+**💼 Business** &nbsp; GTM · Stakeholder Management · Revenue Strategy
 
 ---
 
-**🤖 AutoApply**
-Finds APM job openings daily, tailors a CV to each job description, checks if it will pass ATS screening, and packages everything into a clean daily summary. Cut application prep time by 90%.
-*Set a hard limit of 2 ATS revision attempts per CV — without it the tailoring and review agents just keep sending it back and forth forever.*
+## 🎓 Education
+
+**Product Manager Fellowship** · NextLeap · *Jan 2026 – Present*
+Product Discovery, PRD Writing, UX, Analytics, System Design · 100+ SQL problems · AI-integrated products
+
+**Master of Management** · University of Sydney · *2018 – 2019*
+Finalist — 180 Degrees Consulting Case Competition
+
+**B.E. Mechanical** · BITS Pilani, Dubai Campus · *2013 – 2017*
+Swimming Team Captain · SAE BAJA Finalist
 
 ---
 
-## Skills
+## 💼 Background
 
-**Product:** Product Discovery · PRD Writing · Roadmapping · User Research · Funnel Analysis · A/B Testing · RICE Framework · Figma
-
-**AI & Build:** Multi-agent systems · LLM/RAG · Groq · Cursor · Lovable · n8n · Zapier · Streamlit
-
-**Data:** SQL · Google Analytics · Meta Ads Manager · Excel
-
-**Business:** GTM Planning · Stakeholder Management · Business Model Design · Revenue Strategy
+| | |
+|---|---|
+| 🏢 **Quantum Leap** · Business Coach | 35 businesses · ₹97Cr revenue impact · *2024 – Present* |
+| 🍽️ **Dates Arabia** · Founder | 0 to ₹22L in 6 months · *2022 – 2024* |
+| 🏗️ **Durable Works** · Strategy & Ops | AED 10M portfolio · UAE · *2019 – 2022* |
+| 📋 **Ernst & Young** · Consultant Intern | Sydney, Australia · *2019* |
 
 ---
 
-## Background
-
-- **Quantum Leap** — Business Coach · 35 businesses · ₹97Cr revenue impact · 20–60% conversion improvements
-- **Dates Arabia** — Founded a D2B food brand · ₹22L revenue in 6 months · 0 to 1
-- **Durable Works** — Strategy & Ops · AED 10M project portfolio · UAE
-- **Ernst & Young** — Strategy Consultant Intern · Sydney
+> *"I know where businesses break. Now I build the AI that fixes it."*
