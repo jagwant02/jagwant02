@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Jagwant Singh
 
-**I spent 6 years finding where businesses break.**
+**I spent 6 years finding and fixing business problems.**
 **Now I build AI products that fix it.**
 
 [💼 LinkedIn](https://linkedin.com/in/jagwant-singh01) · [✉️ Email](mailto:jagwantsingh01@gmail.com)
